@@ -1,0 +1,2 @@
+# PasswordGenerator
+AutoIT Password Generator
